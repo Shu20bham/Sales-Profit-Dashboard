@@ -41,7 +41,7 @@ The goal was to analyze and visualize sales, profit, and customer insights to su
 > It does **not contain any real or confidential company data.**
 
 ## 🙌 Author
-**VShubham Raj**  
+**Shubham Raj**  
 🎓 B.Tech, Mechanical Engineering – IIT (ISM) Dhanbad  
 📍 India  
 
